@@ -15,6 +15,7 @@ Create HTML tag by using PHP
 			e("td")
 		));
 	echo $table->indented();
+	
 	// Output:
 	// <div >
 	// 	hello world
